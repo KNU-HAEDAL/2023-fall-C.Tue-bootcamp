@@ -4,7 +4,7 @@ C언어 화요일반 부트캠프 수업 내용을 기록하는 레포지토리 
 
 ### 멤버
 
-| <img src="https://github.com/rnjs5540.png" width="100px"> | <img src="https://github.com/Koeunsasem.png" width="100px"> |
+| <img src="https://github.com/rnjs5540.png" width="100px"> | <img src="https://github.com/Koeunsaem.png" width="100px"> |
 | :-------------------------------------------------------: | :-------------------------------------------------------: |
 |           [권용민](https://github.com/rnjs5540)           |           [고은샘](https://github.com/Koeunsaem)           |
 
